@@ -1,0 +1,4 @@
+# Files which concern both/neither frontend and backend which should be ignored
+
+# project specific
+*.db

@@ -1,0 +1,9 @@
+[general]
+web_url = "127.0.0.1:8080"
+dbs_path = "bugtracker.db"
+static_file_root = "/home/np/projects/bugtracker/frontend/build"
+
+[secrets]
+jwt_secret = "aiowdzWdlawJBNowuaZTDdwjOPAlWAJK"
+pw_salt = "iwODHlkgjEPOIWlkdjaJIPOpjOHNDNca"
+pw_secret = "jdoiWazqdPODUWAPmjdowadupWNWADpi"
